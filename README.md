@@ -1,4 +1,2 @@
-git st# bears!
+# bears!
 
-I love bears.
-I love bears too.
